@@ -3,7 +3,7 @@ It is a technique of compressing data to reduce its size without losing any of t
 
 # Installation
 
-1. clone this repo: `git clone https://github.com/tw0-face/Huffman_encoder.git`
+1. clone this repo: `git clone https://github.com/tw0-face/Huffman-encoder.git`
 2. `cd Huffman_encoder`
 3. `pip install -r requirements.txt`
 4. `python huff_encode.py   `
